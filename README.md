@@ -9,7 +9,7 @@ Professional engineering repository configurations deployed inside your GitHub p
 
 ---
 
-## 📝 Overview & Core Description
+## Overview & Core Description
 
 > **Smart Decisions. Faster Responses. Saved Lives.**
 
@@ -18,7 +18,7 @@ Designed for governments, NGOs, and emergency response agencies to save lives an
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 Traditional disaster management systems suffer from:
 - Reactive responses after disasters occur
@@ -31,7 +31,7 @@ Traditional disaster management systems suffer from:
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - **Early Disaster Prediction** (floods, earthquakes, wildfires)
 - **Real-Time Detection** using sensors, satellites, and social media
@@ -41,7 +41,7 @@ Traditional disaster management systems suffer from:
 
 ---
 
-## 🧠 High-Level Solution Overview
+## High-Level Solution Overview
 
 The system follows an intelligent, modular pipeline:
 
@@ -64,7 +64,7 @@ The system follows an intelligent, modular pipeline:
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ### Layers
 
@@ -99,18 +99,18 @@ The system follows an intelligent, modular pipeline:
 
 ---
 
-## 🔑 Core Features
+## Core Features
 
-- 🔮 **Predictive Disaster Analysis**
-- 🚨 **Real-Time Alerts & Notifications**
-- 🧭 **Geospatial Visualization**
-- 🧠 **NLP-Based SOS Detection**
-- 🛰️ **Image-Based Damage Assessment**
-- 🚑 **AI-Driven Resource Allocation**
+- **Predictive Disaster Analysis**
+- **Real-Time Alerts & Notifications**
+- **Geospatial Visualization**
+- **NLP-Based SOS Detection**
+- ️ **Image-Based Damage Assessment**
+- **AI-Driven Resource Allocation**
 
 ---
 
-## 📊 Machine Learning Models
+## Machine Learning Models
 
 ### Flood Prediction
 - LSTM / Temporal CNN / Transformer
@@ -130,7 +130,7 @@ The system follows an intelligent, modular pipeline:
 
 ---
 
-## 🧪 Case Studies Implemented
+## Case Studies Implemented
 
 - **Flood Prediction – Assam (India)**
 - **Earthquake Early Warning – Japan**
@@ -142,7 +142,7 @@ Each case demonstrates **early warning, AI decision-making, and coordinated resp
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend & AI
 - Python 3.10+
@@ -167,7 +167,7 @@ Each case demonstrates **early warning, AI decision-making, and coordinated resp
 
 ---
 
-## 🔐 Security & Ethics
+## Security & Ethics
 
 - Data anonymization & encryption (AES-256)
 - Role-based access control (RBAC)
@@ -178,7 +178,7 @@ Each case demonstrates **early warning, AI decision-making, and coordinated resp
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 - Prediction Accuracy: **>85% F1-score**
 - Alert Latency: **<2 seconds**
@@ -188,7 +188,7 @@ Each case demonstrates **early warning, AI decision-making, and coordinated resp
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Autonomous drone surveillance
 - Voice-based regional assistants
@@ -199,20 +199,20 @@ Each case demonstrates **early warning, AI decision-making, and coordinated resp
 
 ---
 
-## 📜 License
+## License
 
 This project is developed as an academic final-year project.  
 Licensing details can be added based on deployment or open-source plans.
 
 ---
 
-## ❤️ Vision
+## Vision
 
 > *“AI cannot stop disasters — but it can stop them from becoming catastrophes.”*
 
 ---
 
-## 🏛️ System Design & Folder Structure
+## System Design & Folder Structure
 ```text
 .github/                  # CI/CD pipelines, Dependabot, and Issue/PR schemas
 .editorconfig             # Unified file formatting configuration
@@ -229,14 +229,14 @@ SECURITY.md               # Responsible vulnerability disclosures
 
 ---
 
-## 🛠️ Tooling & Tech Stack
+## Tooling & Tech Stack
 - **Primary Environment:** Python runtime.
 - **Workflow Automation:** GitHub Actions CI, Dependabot, and CodeQL.
 - **Standards Checkers:** Git `pre-commit` hook validations.
 
 ---
 
-## ⚙️ Quickstart & Local Setup
+## Quickstart & Local Setup
 1. Clone this repository locally:
    ```bash
    git clone https://github.com/krsna016/disaster-response-system-FYP.git
@@ -249,10 +249,10 @@ SECURITY.md               # Responsible vulnerability disclosures
 
 ---
 
-## 📋 Security & Responsible Disclosure
+## Security & Responsible Disclosure
 For details on disclosing vulnerabilities or hardcoded secrets, refer directly to our [SECURITY.md](SECURITY.md) guidelines.
 
 ---
 
-## 📜 License
+## License
 This repository is licensed under the permissive **MIT License**. For details, see the [LICENSE](LICENSE) file.
